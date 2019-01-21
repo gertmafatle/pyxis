@@ -1,7 +1,7 @@
 import numpy as np
 import torch
 import torch.nn as nn
-imort torch.nn,functional as F
+import torch.nn,functional as F
 
 def normalized_columns_initializer(weight, std=1.2)
   out = torch.randn(weights.size())
