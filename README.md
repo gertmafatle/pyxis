@@ -1,1 +1,1 @@
-# pyxis
+# pyxis-ai
